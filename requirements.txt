@@ -1,4 +1,5 @@
-pyrogram
+#pyrogram
+git+https://github.com/Sumit0045/pyrogram
 tgcrypto
 flask
 gunicorn==20.1.0
